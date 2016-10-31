@@ -1,0 +1,74 @@
+body,
+html{
+  background-color: #D0D0D0;
+}
+
+.searchStyle { font-size:16px; padding:8px; border-width:5px; border-radius:50px; border-style:solid; border-color:#000; text-shadow:0px 0px 0px rgba(42,42,42,.75); font-family:sans-serif; font-weight:bold; font-style:none;  } 
+		 .searchStyle:focus { outline:none; } 
+
+.row1font {
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #888888;
+  color: ;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.main1 {
+  position: absolute;
+  background-color: white;
+  font-size: 30px;
+  top: 100px;
+  left: 100px;
+  right: 100px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  box-shadow: 10px 10px 5px #888888;
+  color: ;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-family: "Sans";
+}
+
+.copyright {
+  position: fixed;
+  bottom: 0px;
+  left: 200px;
+  text-align: center;
+  }
+
+.row6font {
+  color: black;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+.icon2 {
+  margin-right: 20px;
+  width: 50px;
+  }
+
+#random {
+  position: absolute;
+  top: 15px;
+  left: 610px;
+  text-shadow: -1px -1px 3px #AAA,
+                       1px 1px 3px #FFF;
+  color: ;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-family: "Sans";
+}
+
+#search {
+  postion: absolute;
+  width: 400px;
+}
+
+#searchIcon {
+  width: 40px;
+}
